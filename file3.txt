@@ -1,1 +1,2 @@
 this is the wacky third file
+this is the zany new feature of file3
